@@ -7,6 +7,7 @@ your favorite directory
     - simple_fbx_viewer
         - src
         - shader
+        - build.bash
         - app
     - library
         - FBXSDK
